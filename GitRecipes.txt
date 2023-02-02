@@ -119,4 +119,24 @@ This allows us to write `git ci -m "First"` instead of `git commit -m "First"`.
 
 - - -
 
+Branching Workflow
+
+Create a branch:
+git branch <branch_name>
+
+Checkout the new branch:
+git checkout <branch_name>
+
+Use git add and commit as normal.
+
+When you want to push your branch to GitHub, do:
+git push origin <branch_name>
+
+When you want to merge your new branch into main, do the following three steps:
+git checkout main
+git pull origin main
+git merge <branch_name>
+
+Note that you can do git checkout --branch <branch_name> to create a new branch and immediately check it out with a single command.
+
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.

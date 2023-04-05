@@ -1,0 +1,1938 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Water_Hydrant_WCORP_070",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 115.78228321, -31.898217252 ]
+			},
+			"properties" : {
+				"status" : "Abandoned",
+				"type" : "Hydrant",
+				"object_id" : 1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 115.836353053, -31.879832553 ]
+			},
+			"properties" : {
+				"status" : "Abandoned",
+				"type" : "Hydrant",
+				"object_id" : 2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 127.664002625, -18.223868934 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 3
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 127.664683205, -18.223935046 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 127.663746911, -18.224715971 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 127.663567762, -18.225869839 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 6
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.733512573, -15.780859024 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 7
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.733254998, -15.779048288 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.751375966, -15.773061089 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.751542567, -15.77389416 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 10
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.751533027, -15.774583234 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 11
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.749664657, -15.776310559 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 12
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.747489844, -15.776787931 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 13
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.748064285, -15.776185459 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 14
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.750122225, -15.774220898 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.750375644, -15.775632539 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 16
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.746056672, -15.78160608 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 17
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.744493383, -15.781926309 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 18
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.744498373, -15.782735563 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 19
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.745499398, -15.783169372 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 20
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.743602691, -15.782946091 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 21
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.744080895, -15.783581572 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 22
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.74751362, -15.783249801 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 23
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.746764961, -15.782927411 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 24
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.747975859, -15.783978796 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 25
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.74916552, -15.783312862 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 26
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.749290921, -15.781961702 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 27
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.750387553, -15.782382716 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 28
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.751849589, -15.782882417 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 29
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.750921083, -15.781642783 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 30
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.748207949, -15.782533277 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 31
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.748358047, -15.781571739 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 32
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.741529719, -15.776751953 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 33
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.742108427, -15.777472524 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 34
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.741426995, -15.778904085 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 35
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.743024268, -15.77823465 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 36
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.735788299, -15.784281357 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 37
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.739099349, -15.77930451 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 38
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.738489188, -15.780311991 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 39
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.734113461, -15.779549369 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 40
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.737505567, -15.777997065 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 41
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.736147721, -15.779884014 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 42
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.735745204, -15.781726994 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 43
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.736026859, -15.778302224 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 44
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.735580599, -15.778735263 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 45
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.735167847, -15.779437134 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 46
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.742296767, -15.774297283 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 47
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.743300844, -15.77591599 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 48
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.742865911, -15.775101641 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 49
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.746452364, -15.777706601 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 50
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.745950593, -15.774892831 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 51
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.74402927, -15.774595755 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 52
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.743000702, -15.771417813 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 53
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.743801921, -15.772078105 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 54
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.74000305, -15.772695353 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 55
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.739796118, -15.773119447 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.740772294, -15.773517379 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 57
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.739510431, -15.774189742 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 58
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.741210986, -15.774339591 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 59
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.739226701, -15.776192481 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 60
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.734807125, -15.777572105 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 61
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.733883345, -15.7821682 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 62
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.733475823, -15.781711965 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 63
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.733044108, -15.782812098 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 64
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.748252401, -15.761943978 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 65
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.747266434, -15.761318116 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 66
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.737112931, -15.766742294 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 67
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.739440422, -15.769791039 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 68
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.739942475, -15.768509282 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 69
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.739135551, -15.76749259 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 70
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.743497954, -15.768125024 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 71
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.744577908, -15.773198677 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 72
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.743620105, -15.768817567 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 73
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.741598577, -15.769014247 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 74
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.740852814, -15.769696921 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 75
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.74150247, -15.7698222 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 76
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.74273622, -15.76973765 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 77
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.738815542, -15.771115285 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 78
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.738436966, -15.76990152 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 79
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.739228576, -15.768680942 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 80
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.740790934, -15.771850619 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 81
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.741468726, -15.771685216 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 82
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.74394474, -15.77035348 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 83
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.121519402, -15.487600537 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 84
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.120227902, -15.487808878 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 85
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.116245975, -15.486237162 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 86
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.118106678, -15.484570241 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 87
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.115033218, -15.481785205 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 88
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.124517643, -15.479425998 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 89
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.125284354, -15.48083861 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 90
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.126020806, -15.478209158 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 91
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.124431486, -15.48092849 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 92
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.121580594, -15.480713229 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 93
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.123867623, -15.482165577 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 94
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.122680056, -15.480888808 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.123156892, -15.482410022 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 96
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.100955914, -15.461772037 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 97
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.166601149, -15.508584625 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 98
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.7369337, -15.7703877 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 99
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.74054297, -15.778033678 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.164694761, -15.50713244 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 101
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.741113434, -15.768222468 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 102
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.748450371, -15.780648026 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 103
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.74478951, -15.784232367 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 104
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.74353423, -15.784273316 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 105
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.123357975, -15.483846843 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 106
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.125211104, -15.484449506 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 107
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.125118883, -15.48264596 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 108
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.126123234, -15.488783477 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 109
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.112212957, -15.455481862 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 110
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.118343612, -15.483026929 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 111
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.119819562, -15.484805298 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 112
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.117497629, -15.487783722 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 113
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.111674704, -15.454131996 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 114
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.121024901, -15.481337622 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 115
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.741314597, -15.77573957 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 116
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.736238936, -15.775623166 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 117
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.743647828, -15.786619236 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 118
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.744109688, -15.785345911 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 119
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.745048901, -15.782293647 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 120
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 127.673287533, -18.225786193 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 121
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 127.673974106, -18.226074941 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 122
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 127.675335812, -18.226131393 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 123
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 127.65596227, -18.207802903 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 124
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 127.659391177, -18.205688379 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 125
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 127.662172839, -18.208621667 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 126
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 127.654969846, -18.213578238 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 127
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 127.6594602, -18.216675469 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 128
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 127.661890779, -18.212562575 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 129
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 127.664131927, -18.225302773 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 130
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 127.665137181, -18.225085515 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 131
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.738936899, -15.771914938 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 132
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.740169802, -15.758195351 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 133
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.742065112, -15.757911522 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 134
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.745244175, -15.755182439 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 135
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.74598715, -15.759902288 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 136
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.746156901, -15.758393878 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 137
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.750680234, -15.783948679 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 138
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.744926575, -15.785585564 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 139
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.739287968, -15.758330609 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 140
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.122414002, -15.486818082 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 141
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.120908412, -15.486040041 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 142
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.121465659, -15.485668508 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 143
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.10042102, -15.463520109 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 144
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.100659082, -15.462742773 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 145
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.102376982, -15.46076046 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 146
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.119178498, -15.485502313 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 147
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.10778483, -15.456885394 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 148
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.100727535, -15.462517103 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 149
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.744499474, -15.777332024 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 150
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.745534874, -15.776577405 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 151
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.733729896, -15.77080992 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 152
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.733760759, -15.768879272 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 153
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.74733738, -15.786902593 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 154
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.746140844, -15.788609438 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 155
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.742893714, -15.772770097 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 156
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.747317921, -15.78924085 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 157
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.744353586, -15.788133343 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 158
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.747721957, -15.79014955 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 159
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.745813403, -15.787646239 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 160
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.745036946, -15.769407995 ]
+			},
+			"properties" : {
+				"status" : "Existing",
+				"type" : "Hydrant",
+				"object_id" : 161
+			}
+		}
+	]
+}
